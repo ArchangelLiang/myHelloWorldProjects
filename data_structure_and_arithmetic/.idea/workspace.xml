@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb9620ba-f63f-490b-9ad6-e19766edf2ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="data_structure_and_arithmetic" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\my_java_File\maven_repository" />
+        <option name="mavenHome" value="D:/Softwaredata/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\Softwaredata\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UKnfCP5S3UvjPBSVP0Du6cr7ah" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.3327338" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/com/datastructure_arithmetic/arithmetic/sort/SortArithmetic.java" />
+  </component>
+  <component name="RunManager" selected="Application.FibonacciOfDynamicProgramming">
+    <configuration name="AVLBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructure_arithmetic.datastructure.tree.AVLBinaryTree" />
+      <module name="data_structure_and_arithmetic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructure_arithmetic.datastructure.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySortTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructure_arithmetic.datastructure.tree.BinarySortTree" />
+      <module name="data_structure_and_arithmetic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructure_arithmetic.datastructure.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciOfDynamicProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructure_arithmetic.arithmetic.dynamicProgramming.FibonacciOfDynamicProgramming" />
+      <module name="data_structure_and_arithmetic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructure_arithmetic.arithmetic.dynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphOfMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructure_arithmetic.datastructure.graph.GraphOfMatrix" />
+      <module name="data_structure_and_arithmetic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructure_arithmetic.datastructure.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TowerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructure_arithmetic.arithmetic.diviceAndRule.TowerOfHanoi" />
+      <module name="data_structure_and_arithmetic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructure_arithmetic.arithmetic.diviceAndRule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FibonacciOfDynamicProgramming" />
+        <item itemvalue="Application.TowerOfHanoi" />
+        <item itemvalue="Application.GraphOfMatrix" />
+        <item itemvalue="Application.AVLBinaryTree" />
+        <item itemvalue="Application.BinarySortTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb9620ba-f63f-490b-9ad6-e19766edf2ce" name="Default Changelist" comment="" />
+      <created>1575114255144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575114255144</updated>
+      <workItem from="1575114257287" duration="12811000" />
+      <workItem from="1575169537026" duration="7641000" />
+      <workItem from="1575190027852" duration="2883000" />
+      <workItem from="1575193974813" duration="5508000" />
+      <workItem from="1575266737996" duration="18272000" />
+      <workItem from="1575344937387" duration="13290000" />
+      <workItem from="1575436124077" duration="8722000" />
+      <workItem from="1575453305452" duration="1436000" />
+      <workItem from="1575455715134" duration="394000" />
+      <workItem from="1575456933307" duration="9628000" />
+      <workItem from="1575518364397" duration="26976000" />
+      <workItem from="1575562616071" duration="288000" />
+      <workItem from="1575604158995" duration="1753000" />
+      <workItem from="1575613646869" duration="1000" />
+      <workItem from="1576321873165" duration="196000" />
+      <workItem from="1576326195635" duration="2803000" />
+      <workItem from="1576376463746" duration="30199000" />
+      <workItem from="1576462361041" duration="17446000" />
+      <workItem from="1576550594497" duration="11257000" />
+      <workItem from="1576580185417" duration="21000" />
+      <workItem from="1576640521120" duration="20086000" />
+      <workItem from="1576735216138" duration="365000" />
+      <workItem from="1576735639681" duration="19669000" />
+      <workItem from="1576809768444" duration="12542000" />
+      <workItem from="1576845179158" duration="2970000" />
+      <workItem from="1576893797036" duration="5396000" />
+      <workItem from="1576904393517" duration="5000" />
+      <workItem from="1576994389768" duration="5578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575122558903">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1575122558903" />
+    <state x="520" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1576822820445">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="520" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1575176578618" />
+    <state x="520" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1576822820445" />
+    <state x="449" y="139" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575453282671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="139" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1575453282671" />
+    <state x="314" y="187" key="#org.jetbrains.debugger.memory.view.InstancesWindow" timestamp="1576377321467">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="314" y="187" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1536.864@0.0.1536.864" timestamp="1576377321467" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1575562543062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1575562543062" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1575562467931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575562467931" />
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom" timestamp="1577019959141">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576322068666" />
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1577019959141" />
+    <state width="1493" height="215" key="GridCell.Tab.0.center" timestamp="1577019959141">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576322068666" />
+    <state width="1493" height="215" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1577019959141" />
+    <state width="1493" height="215" key="GridCell.Tab.0.left" timestamp="1577019959140">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576322068666" />
+    <state width="1493" height="215" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1577019959140" />
+    <state width="1493" height="215" key="GridCell.Tab.0.right" timestamp="1577019959141">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576322068666" />
+    <state width="1493" height="215" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1577019959141" />
+    <state width="1493" height="215" key="GridCell.Tab.1.bottom" timestamp="1577019959141">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="239" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575613628083" />
+    <state width="1493" height="215" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1577019959141" />
+    <state width="1493" height="215" key="GridCell.Tab.1.center" timestamp="1577019959141">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="239" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1575613628083" />
+    <state width="1493" height="215" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1577019959141" />
+    <state width="1493" height="215" key="GridCell.Tab.1.left" timestamp="1577019959141">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="239" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1575613628083" />
+    <state width="1493" height="215" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1577019959141" />
+    <state width="1493" height="215" key="GridCell.Tab.1.right" timestamp="1577019959141">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="239" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1575613628083" />
+    <state width="1493" height="215" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1577019959141" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1576661939664">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576322027407" />
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1576661939664" />
+    <state width="776" height="420" key="XDebugger.FullValuePopup" timestamp="1575176525437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="776" height="420" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1575176525437" />
+    <state x="454" y="247" key="com.intellij.ide.util.TipDialog" timestamp="1576376471739">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="454" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1576321882446" />
+    <state x="454" y="247" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1576376471739" />
+    <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576321948689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1576321948689" />
+    <state x="700" y="332" key="extract.method.dialog" timestamp="1576754220968">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="166" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1575552856918" />
+    <state x="700" y="332" key="extract.method.dialog/0.0.1536.864@0.0.1536.864" timestamp="1576754220968" />
+    <state x="178" y="42" key="new project wizard" timestamp="1576462481656">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="42" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1576462481656" />
+    <state x="425" y="196" key="run.anything.popup" timestamp="1576663246999">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1575442568564" />
+    <state x="425" y="196" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1576663246999" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup" timestamp="1576822860564">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1575528745920" />
+    <state x="431" y="152" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1576822860564" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/test/JvmTest.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
