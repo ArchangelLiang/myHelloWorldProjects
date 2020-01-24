@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cce698c-a2d4-4a94-8e6b-d6ab1d43743d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HelloZookeeper" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Softwaredata/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\Softwaredata\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1WEqMLk9idDd4bp20MLpzTQe1kf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dubboStudy" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3327338" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Application.TestCurator">
+    <configuration name="TestCurator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unknown.zk.curator.TestCurator" />
+      <module name="HelloZookeeper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.zk.curator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestZkClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unknown.zk.protogenezis_client.TestZkClient" />
+      <module name="HelloZookeeper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.zk.protogenezis_client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestZkClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unknown.zk.TestZkClient" />
+      <module name="HelloZookeeper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.zk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestZkClient_ACl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unknown.zk.TestZkClient_ACl" />
+      <module name="HelloZookeeper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.zk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zkClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unknown.zk.zkClient.zkClientTest" />
+      <module name="HelloZookeeper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.zk.zkClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestCurator" />
+        <item itemvalue="Application.zkClientTest" />
+        <item itemvalue="Application.TestZkClient (1)" />
+        <item itemvalue="Application.TestZkClient_ACl" />
+        <item itemvalue="Application.TestZkClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cce698c-a2d4-4a94-8e6b-d6ab1d43743d" name="Default Changelist" comment="" />
+      <created>1578725052708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578725052708</updated>
+      <workItem from="1578725055561" duration="870000" />
+      <workItem from="1578725966410" duration="4267000" />
+      <workItem from="1578805288510" duration="22017000" />
+      <workItem from="1578903911026" duration="98000" />
+      <workItem from="1578983713132" duration="4205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1578810877279">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578810877279" />
+    <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578725889323">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578725889323" />
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1578904006613">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578904006613" />
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom" timestamp="1578836204575">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578836204575" />
+    <state width="1493" height="202" key="GridCell.Tab.0.center" timestamp="1578836204574">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578836204574" />
+    <state width="1493" height="202" key="GridCell.Tab.0.left" timestamp="1578836204573">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578836204573" />
+    <state width="1493" height="202" key="GridCell.Tab.0.right" timestamp="1578836204574">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578836204574" />
+    <state x="299" y="88" key="Maven.ArtifactSearchDialog" timestamp="1578816967265">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="299" y="88" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1578816967265" />
+    <state x="270" y="15" key="SettingsEditor" timestamp="1578817099188">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="15" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578817099188" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1578725256607">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1578725256607" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1578815955312">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578815955312" />
+  </component>
+</project>

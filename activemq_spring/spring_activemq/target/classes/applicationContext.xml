@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/context  http://www.springframework.org/schema/context/spring-context-4.3.xsd
+             http://www.springframework.org/schema/beans  http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--开启包扫描-->
+    <context:component-scan base-package="com.unknown"/>
+    <!--配置生产者-->
+    <bean id="jmsFactory" class="org.apache.activemq.pool.PooledConnectionFactory" destroy-method="stop">
+        <property name="connectionFactory">
+            <!--真正可以产生connection的connectionFactory，由对应的jms服务厂商提供-->
+            <bean class="org.apache.activemq.ActiveMQConnectionFactory">
+                <property name="brokerURL" value="tcp://192.168.191.131:61616"/>
+            </bean>
+        </property>
+        <property name="maxConnections" value="100"/>
+    </bean>
+    <!--这个是队列目的地-->
+    <bean id="destinationQueue" class="org.apache.activemq.command.ActiveMQQueue">
+        <constructor-arg name="name" value="队列名称"/>
+    </bean>
+    <!--这个是主题的目的地-->
+    <bean id="destinationTopic" class="org.apache.activemq.command.ActiveMQTopic">
+        <constructor-arg name="name" value="主题名称"/>
+    </bean>
+    <!--spring提供的jms工具类，它可以进行消息接收，发送等-->
+    <bean id="jmsTemplate" class="org.springframework.jms.core.JmsTemplate">
+        <!--配置连接工厂-->
+        <property name="connectionFactory" ref="jmsFactory"/>
+        <!--配置默认目的地，该处使用队列作为默认目的地-->
+        <property name="defaultDestination" ref="destinationQueue"/>
+        <property name="messageConverter">
+            <bean class="org.springframework.jms.support.converter.SimpleMessageConverter"/>
+        </property>
+    </bean>
+   <!-- &lt;!&ndash;可选配置：配置消费方的监听程序,此时只需要启动生产者而无需启动消费者就可监听到消息&ndash;&gt;
+    <bean class="org.springframework.jms.listener.DefaultMessageListenerContainer">
+        &lt;!&ndash;配置连接工厂&ndash;&gt;
+        <property name="connectionFactory" ref="jmsFactory"/>
+        &lt;!&ndash;配置监听目的地，此处配置的是队列&ndash;&gt;
+        <property name="destination" ref="destinationQueue"/>
+        &lt;!&ndash;配置自定义的消息监听器&ndash;&gt;
+        <property name="messageListener" ref="myMessageListener"/>
+    </bean>
+    &lt;!&ndash;自定义的消息监听器&ndash;&gt;
+    <bean id="myMessageListener" class="com.unknown.queue.MyMessageListener"/>-->
+</beans>

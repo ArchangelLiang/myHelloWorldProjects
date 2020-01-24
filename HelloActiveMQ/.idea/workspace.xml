@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e1baa1e-13a3-4bf0-a4eb-d19527aecf28" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/ProgrammingTools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\ProgrammingTools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1WYCxhNYVBk7j9583HkOl9dxinp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.DelayProducer">
+    <configuration name="DelayProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unknown.mq.delay_timing.DelayProducer" />
+      <module name="HelloActiveMQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.mq.delay_timing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unknown.mq.helloWorld.HelloConsumer" />
+      <module name="HelloActiveMQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.mq.helloWorld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unknown.mq.helloWorld.HelloProducer" />
+      <module name="HelloActiveMQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.mq.helloWorld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringMQ_consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unknown.mq.spring_mq.SpringMQ_consumer" />
+      <module name="HelloActiveMQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.mq.spring_mq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringMQ_producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unknown.mq.spring_mq.SpringMQ_producer" />
+      <module name="HelloActiveMQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.mq.spring_mq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SpringMQ_producer" />
+      <item itemvalue="Application.SpringMQ_consumer" />
+      <item itemvalue="Application.HelloProducer" />
+      <item itemvalue="Application.DelayProducer" />
+      <item itemvalue="Application.HelloConsumer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DelayProducer" />
+        <item itemvalue="Application.HelloConsumer" />
+        <item itemvalue="Application.HelloProducer" />
+        <item itemvalue="Application.SpringMQ_producer" />
+        <item itemvalue="Application.SpringMQ_consumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e1baa1e-13a3-4bf0-a4eb-d19527aecf28" name="Default Changelist" comment="" />
+      <created>1579317390094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579317390094</updated>
+      <workItem from="1579317396452" duration="6467000" />
+      <workItem from="1579339118347" duration="7912000" />
+      <workItem from="1579416048339" duration="5542000" />
+      <workItem from="1579442973503" duration="16000" />
+      <workItem from="1579508979685" duration="2193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579328345186">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1579328345186" />
+    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1579509398824">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1579509398824" />
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom" timestamp="1579514716630">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579514716630" />
+    <state width="1493" height="202" key="GridCell.Tab.0.center" timestamp="1579514716626">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579514716626" />
+    <state width="1493" height="202" key="GridCell.Tab.0.left" timestamp="1579514716626">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579514716626" />
+    <state width="1493" height="202" key="GridCell.Tab.0.right" timestamp="1579514716630">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579514716630" />
+    <state x="299" y="88" key="Maven.ArtifactSearchDialog" timestamp="1579439648337">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="299" y="88" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1579439648337" />
+    <state x="273" y="43" width="996" height="758" key="SettingsEditor" timestamp="1579359789809">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="273" y="43" width="996" height="758" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1579359789809" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1579439658734">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1579439658734" />
+  </component>
+</project>

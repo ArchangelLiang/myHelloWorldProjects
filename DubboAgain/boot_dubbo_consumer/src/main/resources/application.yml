@@ -1,0 +1,10 @@
+server:
+  port: 8888
+dubbo:
+  monitor:
+    protocol: registry
+  registry:
+    protocol: zookeeper
+    address: 192.168.43.145:2181
+  application:
+    name: order-service-consumer

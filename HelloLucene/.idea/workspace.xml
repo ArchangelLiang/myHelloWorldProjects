@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fac11508-5d8a-4a9f-9706-3a805bad0433" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Softwaredata/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\Softwaredata\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1W3Zp198MJiV3JeJY3D1NbESO0g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\IDEA\finalStudy\HelloLucene\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestSearch.testBooleanSearchBefore">
+    <configuration name="TestCreateIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unknown.testLucene.TestCreateIndex" />
+      <module name="HelloLucene" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.testLucene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestParentAndSon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unknown.other.TestParentAndSon" />
+      <module name="HelloLucene" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.unknown.testLucene.TestSearch" />
+      <module name="HelloLucene" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.testLucene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSearch.testBooleanSearchBefore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloLucene" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.testLucene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.unknown.testLucene" />
+      <option name="MAIN_CLASS_NAME" value="com.unknown.testLucene.TestSearch" />
+      <option name="METHOD_NAME" value="testBooleanSearchBefore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSearch.testSearchBefore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloLucene" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.unknown.testLucene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.unknown.testLucene" />
+      <option name="MAIN_CLASS_NAME" value="com.unknown.testLucene.TestSearch" />
+      <option name="METHOD_NAME" value="testSearchBefore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSearch.testBooleanSearchBefore" />
+        <item itemvalue="Application.TestParentAndSon" />
+        <item itemvalue="JUnit.TestSearch.testSearchBefore" />
+        <item itemvalue="Application.TestSearch" />
+        <item itemvalue="Application.TestCreateIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fac11508-5d8a-4a9f-9706-3a805bad0433" name="Default Changelist" comment="" />
+      <created>1578380417620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578380417620</updated>
+      <workItem from="1578380419351" duration="10333000" />
+      <workItem from="1578448504249" duration="10829000" />
+      <workItem from="1578465959855" duration="1522000" />
+      <workItem from="1578467525596" duration="74000" />
+      <workItem from="1578467656647" duration="585000" />
+      <workItem from="1578468282676" duration="630000" />
+      <workItem from="1578468947250" duration="1026000" />
+      <workItem from="1578547999685" duration="10683000" />
+      <workItem from="1578562525149" duration="1728000" />
+      <workItem from="1578637562882" duration="2895000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="94" key="#SQL_Dialects" timestamp="1578382908189">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" key="#SQL_Dialects/0.0.1536.864@0.0.1536.864" timestamp="1578382908189" />
+    <state x="574" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1578383547257">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578383547257" />
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom" timestamp="1578559309707">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578559309707" />
+    <state width="1493" height="202" key="GridCell.Tab.0.center" timestamp="1578559309706">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578559309706" />
+    <state width="1493" height="202" key="GridCell.Tab.0.left" timestamp="1578559309706">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578559309706" />
+    <state width="1493" height="202" key="GridCell.Tab.0.right" timestamp="1578559309706">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578559309706" />
+    <state x="228" y="15" key="SettingsEditor" timestamp="1578638023686">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="228" y="15" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578638023686" />
+    <state x="93" y="93" width="1350" height="678" key="dock-window-1" timestamp="1578384761361">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="dock-window-1/0.0.1536.864@0.0.1536.864" timestamp="1578384761361" />
+    <state x="499" y="186" key="extract.method.dialog" timestamp="1578548727613">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="186" key="extract.method.dialog/0.0.1536.864@0.0.1536.864" timestamp="1578548727613" />
+    <state x="814" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1578638346548">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="814" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578638346548" />
+  </component>
+</project>

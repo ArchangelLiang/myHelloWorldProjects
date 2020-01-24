@@ -1,0 +1,10 @@
+server:
+  port: 6666
+spring:
+  activemq:
+    broker-url: tcp://192.168.43.145:61616 #指定mq服务器地址
+    user: admin
+    password: admin
+  jms:
+    pub-sub-domain: false #配置默认目的地,false=Queue true=Topic
+myQueue: boot-mq #自定义的配置，指定队列的名称
